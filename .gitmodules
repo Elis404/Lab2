@@ -1,0 +1,6 @@
+[submodule "Lab2"]
+	path = Lab2
+	url = https://github.com/Elis404/Lab2
+[submodule "sapper"]
+	path = sapper
+	url = https://github.com/Elis404/sapper
